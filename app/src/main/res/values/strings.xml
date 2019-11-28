@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">RakeshApp</string>
+
+    <string name="bottom_navigation_item_title_1">Home</string>
+    <string name="bottom_navigation_item_title_2">Mall</string>
+    <string name="bottom_navigation_item_title_3">Bank</string>
+
+    <string name="drawer_navigation_item_title_1">My Orders</string>
+    <string name="drawer_navigation_item_title_2">My Passbook</string>
+    <string name="drawer_navigation_item_title_3">Payment Remainder</string>
+    <string name="drawer_navigation_item_title_4">My Credit Score</string>
+    <string name="drawer_navigation_item_title_5">My Favourite Stores</string>
+    <string name="drawer_navigation_item_title_6">My Loyalty Cards</string>
+
+    <string name="drawer_navigation_header_text_view_text_1">Rakesh kumar</string>
+    <string name="drawer_navigation_header_text_view_text_2">8284804227</string>
+    <string name="drawer_navigation_header_image_contentDescription_1">Profile Photo</string>
+    <string name="drawer_navigation_header_image_contentDescription_2">OR Code</string>
+    <string name="drawer_navigation_header_image_contentDescription_3">Arrow</string>
+
+    <string name="navigation_drawer_open">Open Drawer Navigation</string>
+    <string name="navigation_drawer_close">Close Drawer Navigation</string>
+
+    <string name="fragment_bank_text_1">Login to Paytm Payments Bank</string>
+    <string name="fragment_bank_text_2">Bank Saving Account</string>
+    <string name="fragment_bank_text_3">Registered Mobile Number</string>
+    <string name="fragment_bank_text_4">+91 8284804227</string>
+    <string name="fragment_bank_text_5">Enter Password</string>
+    <string name="fragment_bank_text_6">Login Securely</string>
+    <string name="fragment_bank_text_7">Forgot Passcode?</string>
+
+    <string name="fragment_home_text_0">Watches, Sungalsses at Flat 50% Cashback</string>
+    <string name="fragment_home_text_1">Movie Tickets</string>
+    <string name="fragment_home_text_2">Mobile\nPrepaid</string>
+    <string name="fragment_home_text_3">Electricity</string>
+    <string name="fragment_home_text_4">Google Play</string>
+    <string name="fragment_home_text_5">Gas</string>
+    <string name="fragment_home_text_6">Freebies\nInside</string>
+    <string name="fragment_home_text_7">Train Tickets</string>
+    <string name="fragment_home_text_8">Mobile\nPostpaid</string>
+    <string name="fragment_home_text_9">Cable Tv</string>
+    <string name="fragment_home_text_10">Toys and Fashion</string>
+    <string name="fragment_home_text_11">Food Delivery</string>
+    <string name="fragment_home_text_12">More</string>
+    <string name="fragment_home_text_13">Pay</string>
+    <string name="fragment_home_text_14">UPI Money\nTransfer</string>
+    <string name="fragment_home_text_15">Passbook</string>
+    <string name="fragment_home_text_16">Paytm\nPostpaid</string>
+    <string name="fragment_home_text_17">Add Money</string>
+    <string name="fragment_home_text_18">Favourite\nStores</string>
+    <string name="fragment_home_text_19">Accept\nPayment</string>
+
+    <string name="fragment_mall_text_1">Top Shopping Offers</string>
+    <string name="str_movies">Movies</string>
+    <string name="str_now_book_on_paytm">Now Book on Paytm!</string>
+    <string name="str_recharge_or_pay_for">Recharge or Pay for</string>
+    <string name="str_prepaid">Prepaid</string>
+    <string name="str_postpaid">Postpaid</string>
+    <string name="str_gas">Gas</string>
+    <string name="str_recharge">Recharge</string>
+    <string name="str_electricity">Electricity</string>
+    <string name="str_buses">Buses</string>
+    <string name="str_flights">Flights</string>
+    <string name="str_car">Car</string>
+    <string name="str_bikes">Bikes</string>
+    <string name="str_sell_on_paytm">Sell on Paytm</string>
+    <string name="str_divider">|</string>
+    <string name="str_our_blog">Our blog</string>
+    <string name="str_business_with">\u0020 Business with</string>
+    <string name="str_paytm">\u0020 \u0020 \u0020 \u0020 \u0020 Paytm</string>
+    <string name="str_24x7_help">\u0020 \u0020 \u0020 \u0020  \u0020 24x7 Help</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="msg_enter_credentials">Enter email and username!</string>
+    <string name="logout">Logout</string>
+    <string name="hint_name">Fullname</string>
+    <string name="register">Register</string>
+    <string name="msg_fill_the_form">Please fill the form!</string>
+    <string name="lbl_create_account">Don\'t have an account? Sign Up here.</string>
+    <string name="lbl_existing_account">Already have an account? Login here</string>
+    <string name="msg_unknown">Unknown error occurred! Please try again. Check Android Studio\'s LogCat for detailed error report.</string>
+    <string name="error">Error</string>
+
+    <string name="price_with_currency">₹%.2f</string>
+    <string name="toolbar_title">Contacts</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search name…</string>
+</resources>
